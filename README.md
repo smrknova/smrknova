@@ -56,31 +56,7 @@
 
 <img src="https://raw.githubusercontent.com/sharpflash24/sharpflash24/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
-</div>
-
-###
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/sharpflash24/sharpflash24/blob/output/github-contribution-grid-snake.svg)
 
+###
