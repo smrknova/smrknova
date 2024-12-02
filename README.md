@@ -81,3 +81,6 @@
 </div>
 
 ###
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/sharpflash24/sharpflash24/blob/output/github-contribution-grid-snake.svg)
+
