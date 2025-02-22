@@ -54,30 +54,30 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sharpflash24/sharpflash24/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sharpflash24/smrk249/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/smrk249/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/smrk249/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/smrk249/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sharpflash24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/smrk249/count.svg?"  />
 </div>
 
 ###
