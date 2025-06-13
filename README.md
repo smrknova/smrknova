@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is Smarak and I'm a CS undergrad from India</h2>
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img 
+      alt="typograssy" 
+      src="https://typograssy.deno.dev/api?text=Hi%2C%20this%20is%20Smrk.%20Welcome%20to%20my%20GitHub!&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+  </a>
+  <p>
+    <img 
+      draggable="false" 
+      style="width:150px;height:28px;" 
+      src="https://komarev.com/ghpvc/?username=smrk249&style=for-the-badge&color=1C8C8C">
+  </p>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/smrk249/smrk249/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
@@ -6,6 +18,30 @@
 
 ---
 ###
+
+<h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
+
+```sh
+smrk@github: ~/my_readme (main⚡)$ neofetch
+```
+
+```csharp
+My Profile
+-------------------------------
+Host: smrk249.dev
+Username: smrk249
+Identity: Curious mind, relentless builder.
+Languages: Go, JavaScript, TypeScript, C++
+Loves: Building things that matter.
+Pronouns: He/Him
+Location: Somewhere in India 🌏
+Favorite Song: Aimer - Brave Shine 🎶
+Hobbies: Coding,vibing with floral art & scenic sketching,
+         devouring books 📚
+```
+
+###
+---
 
 <div align="center">
   <a href="https://github.com/smrk249">
