@@ -25,20 +25,25 @@
 smrk@github: ~/my_readme (main⚡)$ neofetch
 ```
 
+<img align="left" src="side.gif" width="330px" length="430px"/>
+
 ```csharp
 My Profile
--------------------------------
-Host: smrk249.dev
-Username: smrk249
-Identity: Curious mind, relentless builder.
-Languages: Go, JavaScript, TypeScript, C++
-Loves: Building things that matter.
-Pronouns: He/Him
-Location: Somewhere in India 🌏
-Favorite Song: Aimer - Brave Shine 🎶
-Hobbies: Coding,vibing with floral art & scenic sketching,
-         devouring books 📚
+-----------------------------------------------------------------
+Host          : smrk249.dev
+Username      : smrk249
+Identity      : Curious mind, relentless builder.
+Languages     : Go, JavaScript, TypeScript, C++
+Loves         : Building things that matter.
+Pronouns      : He/Him 
+Location      : Somewhere in India 🌏
+Favorite Song : Aimer - Brave Shine 🎶
+Hobbies       : Coding,vibing with floral art & scenic sketching,
+                devouring books 📚
 ```
+
+<br>
+<br>
 
 ###
 ---
