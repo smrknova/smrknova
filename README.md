@@ -8,12 +8,12 @@
     <img 
       draggable="false" 
       style="width:150px;height:28px;" 
-      src="https://komarev.com/ghpvc/?username=smrk249&style=for-the-badge&color=1C8C8C">
+      src="https://komarev.com/ghpvc/?username=smrknova&style=for-the-badge&color=1C8C8C">
   </p>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smrk249/smrk249/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/smrknova/smrknova/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
 </p>
 
 ---
@@ -30,8 +30,8 @@ smrk@github: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -----------------------------------------------------------------
-Host          : smrk249.dev
-Username      : smrk249
+Host          : smrknova.dev
+Username      : smrknova
 Identity      : Curious mind, relentless builder.
 Languages     : Go, JavaScript, TypeScript, C++
 Loves         : Building things that matter.
@@ -52,12 +52,12 @@ Hobbies       : Coding,vibing with floral art & scenic sketching,
 ---
 
 <div align="center">
-  <a href="https://github.com/smrk249">
-    <img src="https://github-readme-stats.vercel.app/api?username=smrk249&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="GitHub Stats" />
+  <a href="https://github.com/smrknova">
+    <img src="https://github-readme-stats.vercel.app/api?username=smrknova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="GitHub Stats" />
   </a>
   
-  <a href="https://github.com/smrk249">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrk249&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&bg_color=0D1117" height="50%" alt="Top Languages" />
+  <a href="https://github.com/smrknova">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrknova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&bg_color=0D1117" height="50%" alt="Top Languages" />
   </a>
 </div>
 
@@ -105,13 +105,13 @@ Hobbies       : Coding,vibing with floral art & scenic sketching,
 
 <br clear="both">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/smrk249/smrk249/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/smrknova/smrknova/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
 <p align="center">
-  <img align="center" width="400" src="https://count.getloli.com/@smrk249?name=smrk249&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto" alt="Profile Visitor Counter" />
+  <img align="center" width="400" src="https://count.getloli.com/@smrk249?name=smrknova&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto" alt="Profile Visitor Counter" />
 </p>
 
 ###
